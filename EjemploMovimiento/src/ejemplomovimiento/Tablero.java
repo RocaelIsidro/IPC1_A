@@ -46,7 +46,7 @@ public class Tablero {
             vec[i]=0;
         }
         
-        ImageIcon guerrtemp=new ImageIcon(getClass().getResource("/Imagenes/guerrero.png"));
+        ImageIcon guerrtemp=new ImageIcon(getClass().getResource("/Imagenes/mago.png"));
         Image t4=guerrtemp.getImage();
         Image r4=t4.getScaledInstance(tambloquex, 150, Image.SCALE_SMOOTH);
         guerrero=new ImageIcon(r4);

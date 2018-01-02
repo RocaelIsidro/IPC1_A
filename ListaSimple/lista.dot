@@ -1,0 +1,6 @@
+digraph lista{
+rankdir=UD
+node [margin=0 fontcolor=blue fontsize=32 width=0.5 shape=box style=filled]
+
+
+ }

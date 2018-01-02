@@ -27,5 +27,7 @@ public class Factorial {
         // TODO code application logic here
         Factorial fac=new Factorial();
         System.out.println(fac.calcularFact(5));
+        
     }
 }
+//

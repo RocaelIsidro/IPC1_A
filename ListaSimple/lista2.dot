@@ -1,0 +1,9 @@
+digraph lista{
+rankdir=UD
+node [margin=0 fontcolor=blue fontsize=32 width=0.5 shape=box style=filled]
+nodo705927765[label="12 : Roca"];
+nodo366712642[label="15 : Eduardo"];
+nodo705927765->nodo366712642;
+
+
+ }

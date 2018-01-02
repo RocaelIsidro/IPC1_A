@@ -1,0 +1,19 @@
+digraph lista{
+rankdir=LR
+node [margin=0 fontcolor=blue fontsize=32 width=0.5 shape=box style=filled]
+nodo366712642[label="16 : Jorge"];
+nodo1829164700[label="16 : Jorge"];
+nodo366712642->nodo1829164700;
+nodo2018699554[label="16 : Jorge"];
+nodo1829164700->nodo2018699554;
+nodo1311053135[label="16 : Jorge"];
+nodo2018699554->nodo1311053135;
+nodo118352462[label="16 : Jorge"];
+nodo1311053135->nodo118352462;
+nodo1550089733[label="16 : Jorge"];
+nodo118352462->nodo1550089733;
+nodo705927765[label="12 : Roca"];
+nodo1550089733->nodo705927765;
+
+
+ }
